@@ -1,0 +1,3 @@
+#ignoring
+vendor/
+composer.lock
